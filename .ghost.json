@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://nahan.digitalpress.blog/",
+    "apiUrl": "https://nahan.digitalpress.blog",
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://nahan.digitalpress.blog/",
+    "apiUrl": "https://nahan.digitalpress.blog",
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   }
 }
